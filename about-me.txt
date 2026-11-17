@@ -1,3 +1,4 @@
 Name: Tanya
 Program: Computer Programming
 I want to learn how to collaborate on GitHub using pull requests.
+I also want to practice reviewing and merging pull requests
